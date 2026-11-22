@@ -1,0 +1,44 @@
+name: Bug report
+description: A route, quest step, arrow or window in Swiftpath is wrong or broken.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. This tracker is public: please do not post character names or account details.
+        Check the open [`known-issue`](https://github.com/Joeywrz/swiftpath/labels/known-issue) items first.
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened, and what did you expect?
+      placeholder: "Example: the arrow pointed up a cliff I could not climb. I expected a way around it."
+    validations:
+      required: true
+  - type: textarea
+    id: report
+    attributes:
+      label: Swiftpath report
+      description: In the game, type `/swift report`, copy the text and paste it here. It has your versions, route, step and position, and no names. Leave this empty if your version has no `/swift report` yet.
+      render: text
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Route / Pathing
+        - Quest / Step
+        - UI / Addon
+        - Performance
+    validations:
+      required: true
+  - type: input
+    id: without_report
+    attributes:
+      label: If you have no report
+      description: Swiftpath version, race, class, level, route and step.
+      placeholder: "Swiftpath 0.2.7, Orc Hunter, level 9, Durotar, step 24"
+    validations:
+      required: false

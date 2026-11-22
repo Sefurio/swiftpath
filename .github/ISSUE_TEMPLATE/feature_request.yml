@@ -1,0 +1,32 @@
+name: Suggestion
+description: An idea for Swiftpath routes or the addon window.
+title: "[Suggestion]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This tracker is public. You can also discuss ideas in `#suggestions` on [Discord](https://discord.gg/WWAGSP7h5M).
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Routes & Guides
+        - UI & UX
+        - Dungeons
+        - Classes
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What felt slow, clunky or missing?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like instead?
+    validations:
+      required: true

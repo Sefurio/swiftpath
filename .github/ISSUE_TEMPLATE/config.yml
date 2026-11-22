@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Swiftpath Discord
+    url: https://discord.gg/WWAGSP7h5M
+    about: Questions go to #help. Bugs posted in #bug-reports are copied to this tracker automatically.
