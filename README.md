@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.curseforge.com/wow/addons/swiftpath"><strong>Download on CurseForge</strong></a> ·
   <a href="https://discord.gg/WWAGSP7h5M"><strong>Discord</strong></a> ·
-  <a href="https://github.com/Joeywrz/swiftpath/issues"><strong>Issues</strong></a>
+  <a href="https://github.com/Sefurio/swiftpath/issues"><strong>Issues</strong></a>
 </p>
 
 ---
@@ -44,7 +44,7 @@ position. It contains no character name, realm or guild. If your version does no
 write down your Swiftpath version, race, class, level, route and step instead. Then either
 
 - post it in **#bug-reports** on [Discord](https://discord.gg/WWAGSP7h5M), or
-- open a [bug report](https://github.com/Joeywrz/swiftpath/issues/new?template=bug_report.yml) here.
+- open a [bug report](https://github.com/Sefurio/swiftpath/issues/new?template=bug_report.yml) here.
 
 Bugs are tracked here in public. Reports from Discord are copied to this tracker without your Discord name.
 

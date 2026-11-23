@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for helping. This tracker is public: please do not post character names or account details.
-        Check the open [`known-issue`](https://github.com/Joeywrz/swiftpath/labels/known-issue) items first.
+        Check the open [`known-issue`](https://github.com/Sefurio/swiftpath/labels/known-issue) items first.
   - type: textarea
     id: description
     attributes:
