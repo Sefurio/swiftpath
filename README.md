@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.curseforge.com/wow/addons/swiftpath"><strong>Download on CurseForge</strong></a> ·
+  <a href="https://swiftpath.guide"><strong>Website</strong></a> ·
+  <a href="https://www.curseforge.com/wow/addons/swiftpath"><strong>CurseForge</strong></a> ·
+  <a href="https://addons.wago.io/addons/swiftpath"><strong>Wago</strong></a> ·
   <a href="https://discord.gg/WWAGSP7h5M"><strong>Discord</strong></a> ·
   <a href="https://github.com/Sefurio/swiftpath/issues"><strong>Issues</strong></a>
 </p>
